@@ -1,4 +1,5 @@
 # 💫 About Me:
+👋 Hi, I'm Jayesh Marathe!
 🎓 MCA Student | Aspiring Software Tester & Cybersecurity Enthusiast<br>💻 Interested in Web Development, Manual Testing, and Ethical Hacking<br>🛠️ Skills: Python, Java, C++, HTML, CSS, JavaScript, SQL<br>🔍 Exploring Software Testing, Selenium Automation, and Cybersecurity<br>🚀 Building projects, learning new technologies, and improving my coding skills<br>♟️ Fun fact: I enjoy playing chess!
 
 
